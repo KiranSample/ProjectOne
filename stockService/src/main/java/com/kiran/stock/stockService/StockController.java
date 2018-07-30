@@ -6,6 +6,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 //This is controller
 //Comment
+//Comment fro Branch-1
 @RestController
 @RequestMapping("/stock")
 public class StockController 
